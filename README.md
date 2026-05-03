@@ -10,6 +10,7 @@ Identify which sensors contribute most to prediction accuracy
 Demonstrate a realistic IoT deployment scenario by excluding reference analyzer data from model inputs
 
 Dataset
+
 Name: UCI Air Quality Dataset
 Source: UCI Machine Learning Repository
 Link: https://archive.ics.uci.edu/dataset/360/air+quality
@@ -50,4 +51,5 @@ Project Structure
 
 Author
 Cem Cereb
+
 ISOM 835 — Predictive Analytics, May 2026
