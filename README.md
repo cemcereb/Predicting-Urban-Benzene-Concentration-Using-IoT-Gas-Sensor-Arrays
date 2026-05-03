@@ -35,21 +35,12 @@ NotebookDescriptionair_quality_project.ipynbFull analysis: EDA, preprocessing, m
 
 How to Run
 
-Open the notebook link above in Google Colab
-Go to Runtime → Run all (or press Ctrl+F9)
+Go to Runtime → Run all 
 The notebook will automatically install ucimlrepo and download the dataset — no manual downloads required
 All outputs, plots, and model results will generate in order
 
 
-Note: The GridSearchCV cell (Section 4.4) may take 3-5 minutes to complete.
-
-Project Structure
-├── air_quality_project.ipynb   # Main analysis notebook
-├── air_quality_report.docx     # Final report
-├── visualizations/             # Saved plot images
-└── README.md                   # This file
-
-Author
+Author:
 Cem Cereb
 
-ISOM 835 — Predictive Analytics, May 2026
+ISOM 835 — Predictive Analytics and Machine Learning
