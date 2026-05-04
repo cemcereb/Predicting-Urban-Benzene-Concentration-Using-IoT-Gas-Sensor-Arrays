@@ -30,8 +30,6 @@ Data: numpy, pandas, ucimlrepo
 Visualization: matplotlib, seaborn
 Modeling: scikit-learn (LinearRegression, RandomForestRegressor, GradientBoostingRegressor, GridSearchCV, KNNImputer, StandardScaler)
 
-Colab Notebook
-NotebookDescriptionair_quality_project.ipynbFull analysis: EDA, preprocessing, modeling, evaluation
 
 How to Run
 
