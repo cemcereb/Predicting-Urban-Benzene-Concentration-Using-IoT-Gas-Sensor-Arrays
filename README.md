@@ -14,7 +14,7 @@ Dataset
 Name: UCI Air Quality Dataset
 Source: UCI Machine Learning Repository
 Link: https://archive.ics.uci.edu/dataset/360/air+quality
-Citation: De Vito, S. et al. (2008). On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario. Sensors and Actuators B: Chemical, 129(2), 750-757.
+
 
 9,358 hourly observations
 5 metal oxide chemical sensors (PT08.S1 through PT08.S5)
