@@ -41,4 +41,4 @@ All outputs, plots, and model results will generate in order
 Author:
 Cem Cereb
 
-ISOM 835 — Predictive Analytics and Machine Learning
+ISOM 835 Predictive Analytics and Machine Learning
